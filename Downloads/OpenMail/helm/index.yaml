@@ -3,12 +3,12 @@ entries:
   openmail:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-05-09T05:37:12.7706035+05:30"
+    created: "2025-05-09T05:37:46.9171074+05:30"
     description: A Helm chart for deploying OpenMail
-    digest: 7174a6bf959c8d53325a21b92c422970bd41a45410fd5e0f392b75a3e174b6f3
+    digest: 717ace91ecd7e361e69f944776fbb9fa1ccd033f5e248fbb4e338d25d4a2a943
     name: openmail
     type: application
     urls:
     - openmail-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-09T05:37:12.7688859+05:30"
+generated: "2025-05-09T05:37:46.9160383+05:30"
